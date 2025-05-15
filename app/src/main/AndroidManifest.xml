@@ -15,10 +15,7 @@
         android:label="@string/app_name"
         android:theme="@style/Theme.MonetiaApp">
 
-        <!-- CLAVE DE API PARA GOOGLE MAPS -->
-        <meta-data
-            android:name="com.google.android.geo.API_KEY"
-            android:value="AIzaSyAbD7a7PBTQPzrMvsQgZhYRnoQF06avAJA" />
+        
 
         <!-- Actividad de inicio de sesión -->
         <activity android:name=".LoginActivity"
