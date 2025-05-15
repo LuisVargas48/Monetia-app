@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MonetiaApp</string>
+    <string name="saldo_0_00">Saldo: $0.00</string>
+</resources>
