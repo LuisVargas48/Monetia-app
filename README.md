@@ -1,0 +1,1 @@
+Final Project from Master´s class mobile computing , it consist on a basic banking app , where we can have a minimalistic account, support, basic transactions between accounts and a map using google maps API
